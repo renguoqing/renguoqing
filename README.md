@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on JD.com
+- 🌱 I’m currently learning C++ Template
+
+
 <!--
 **renguoqing/renguoqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
