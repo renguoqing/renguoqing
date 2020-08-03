@@ -8,10 +8,10 @@
 
 这些书搬家时时最沉的物品了，但是一本也没舍得扔下。希望多读，不枉我搬家流的汗啊！
 
-| First Time | Book | Progress |
-| --- | --- | --- |
-| 2020-08-01 | 《深入理解c++11：c++11新特性解析与应用》| 100% |
-| - | - | - |
+| First Time | Book | Progress | Recommendation Index |
+| --- | --- | --- | --- |
+| 2020-08-01 | 《深入理解c++11：c++11新特性解析与应用》| 100% | 😀😀😀😀😀 |
+| - | - | - | - |
 
 <!--
 **renguoqing/renguoqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
