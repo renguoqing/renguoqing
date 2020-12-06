@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on JD.com
 - 🌱 I’m currently learning C++ Template
-
+<!--
 ### Awesome books
 重读经典，其中很多书都是已经读过一遍的了，不过老话说得好：书越读越薄！
 
@@ -13,7 +13,7 @@
 | 2020-08-01 | 《深入理解c++11：c++11新特性解析与应用》| 100% | 😀😀😀😀😀 |
 | - | - | - | - |
 
-<!--
+
 **renguoqing/renguoqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
